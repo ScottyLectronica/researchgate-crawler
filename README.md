@@ -1,4 +1,4 @@
-# ResearchGate Crawler
+# ResearchGate Crawler- ScottyLectronica Version
 
 A containerize python crawler for <a href="https://www.researchgate.net/">ResearchGate</a> Papers powered by ***Scrapy*** 
 
